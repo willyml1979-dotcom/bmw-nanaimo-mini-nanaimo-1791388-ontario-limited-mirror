@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-10-04T18:29:27",
-  "vehicle_count": 275,
+  "generated_at": "2026-10-07T20:57:35",
+  "vehicle_count": 280,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -10,6 +10,7 @@
       "vin": "WMWRE33566TJ37711",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Hardtop Rallye Edition",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/ea9d8718f335.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2006-MINI-Cooper_Hardtop-id14276915.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2006-MINI-Cooper_Hardtop-id14276915.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 115374,
       "year": 2006,
       "make": "MINI",
-      "model": "Cooper Hardtop Rallye Editionin Nanaimo",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2006 MINI Cooper Hardtop ",
       "vin": "WMWRE33566TJ37711",
       "stock": 14276915,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/5e60732867af.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2006-MINI-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2006-MINI-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -35,14 +39,17 @@
       "price_currency": "CAD",
       "year": 2006,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2006 MINI Cooper Hardtop ",
       "vin": "WMWRE33566TJ37711",
       "stock": 14276915,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/4ce3e280eea2.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2006-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2006-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -51,14 +58,17 @@
       "price_currency": "CAD",
       "year": 2006,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2006 MINI Cooper Hardtop ",
       "vin": "WMWRE33566TJ37711",
       "stock": 14276915,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/4ce3e280eea2.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2006-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2006-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -67,8 +77,10 @@
       "price_currency": "CAD",
       "year": 2006,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "new"
+      "model": "Cooper",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Honda Crosstour Ex-L 4wdin Nanaimo",
@@ -85,7 +97,9 @@
       "year": 2012,
       "make": "Honda",
       "model": "Crosstour Ex-L 4wdin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Honda Crosstour ",
@@ -101,13 +115,16 @@
       "year": 2012,
       "make": "Honda",
       "model": "Crosstour",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle Sportline 2.0t 6spin Nanaimo",
       "vin": "3VW467AT9CM637467",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Sportline 2.0t 6sp",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/5ce89e5c49ec.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2012-Volkswagen-Beetle-id14317746.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2012-Volkswagen-Beetle-id14317746.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -117,8 +134,10 @@
       "odometer_km": 124000,
       "year": 2012,
       "make": "Volkswagen",
-      "model": "Beetle Sportline 2.0t 6spin Nanaimo",
-      "condition": "used"
+      "model": "Beetle",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle ",
@@ -134,13 +153,16 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Golf Gti 5-Dr 6spin Nanaimo",
       "vin": "WVWGV7AJ0CW088422",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "5-Dr 6sp",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/03d6aa79c3a4.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2012-Volkswagen-Golf-id14429754.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2012-Volkswagen-Golf-id14429754.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -150,8 +172,10 @@
       "odometer_km": 88140,
       "year": 2012,
       "make": "Volkswagen",
-      "model": "Golf Gti 5-Dr 6spin Nanaimo",
-      "condition": "used"
+      "model": "Golf GTI",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Golf ",
@@ -167,7 +191,9 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Beetle ",
@@ -183,7 +209,9 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2012 Volkswagen Golf ",
@@ -199,7 +227,9 @@
       "year": 2012,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 BMW 228i Xdrive Cabrioletin Nanaimo",
@@ -216,7 +246,9 @@
       "year": 2015,
       "make": "BMW",
       "model": "228i Xdrive Cabrioletin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 BMW 228i ",
@@ -232,7 +264,9 @@
       "year": 2015,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 BMW 228i ",
@@ -248,13 +282,16 @@
       "year": 2015,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Odyssey Touringin Nanaimo",
       "vin": "5FNRL5H94FB509386",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/f98711a2db5a.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2015-Honda-Odyssey-id14429753.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2015-Honda-Odyssey-id14429753.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -264,8 +301,10 @@
       "odometer_km": 136126,
       "year": 2015,
       "make": "Honda",
-      "model": "Odyssey Touringin Nanaimo",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Odyssey ",
@@ -281,7 +320,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Odyssey ",
@@ -297,7 +338,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 440i Xdrive Gran Coupein Nanaimo",
@@ -314,7 +357,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "440i Xdrive Gran Coupein Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 440i ",
@@ -330,7 +375,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 BMW 440i ",
@@ -346,7 +393,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz AMG GT C Roadsterin Nanaimo",
@@ -363,13 +412,16 @@
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "AMG GT C Roadsterin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Cadillac XT4 Sport Awdin Nanaimo",
       "vin": "1GYFZFR49KF226153",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/6ceb97a4e426.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2019-Cadillac-XT4-id14051297.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2019-Cadillac-XT4-id14051297.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -379,8 +431,10 @@
       "odometer_km": 37866,
       "year": 2019,
       "make": "Cadillac",
-      "model": "XT4 Sport Awdin Nanaimo",
-      "condition": "used"
+      "model": "XT4",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Cadillac XT4 ",
@@ -396,7 +450,9 @@
       "year": 2019,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2019 Cadillac XT4 ",
@@ -412,13 +468,16 @@
       "year": 2019,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X3 M Competitionin Nanaimo",
       "vin": "5YMTS0C04M9D00378",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M Competition",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/a7615e2d764e.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M-id14429755.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M-id14429755.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -428,14 +487,17 @@
       "odometer_km": 88300,
       "year": 2021,
       "make": "BMW",
-      "model": "X3 M Competitionin Nanaimo",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X3 M ",
       "vin": "5YMTS0C04M9D00378",
       "stock": 14429755,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/9447b97e6efe.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +506,17 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "BMW",
-      "model": "X3 M",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X3 M ",
       "vin": "5YMTS0C04M9D00378",
       "stock": 14429755,
       "color": "Black",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/9447b97e6efe.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2021-BMW-X3_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -460,14 +525,17 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "BMW",
-      "model": "X3 M",
-      "condition": "new"
+      "model": "X3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler Sportin Nanaimo",
       "vin": "1C4GJXAG5NW209755",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/b7d3c15b152b.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2022-Jeep-Wrangler-id14376971.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2022-Jeep-Wrangler-id14376971.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -477,8 +545,10 @@
       "odometer_km": 47971,
       "year": 2022,
       "make": "Jeep",
-      "model": "Wrangler Sportin Nanaimo",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -494,7 +564,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -510,13 +582,16 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento Sx 2.5t Awdin Nanaimo",
       "vin": "5XYRKDLF1NG154629",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sx 2.5t",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/626654cebc3d.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2022-Kia-Sorento-id14037863.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2022-Kia-Sorento-id14037863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -526,8 +601,10 @@
       "odometer_km": 39814,
       "year": 2022,
       "make": "Kia",
-      "model": "Sorento Sx 2.5t Awdin Nanaimo",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -543,7 +620,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -559,13 +638,16 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue Platinum Cvt 2in Nanaimo",
       "vin": "JN8BT3DD9NW274417",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum 2",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/ff2932d86d97.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2022-Nissan-Rogue-id14208414.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2022-Nissan-Rogue-id14208414.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -575,8 +657,10 @@
       "odometer_km": 105692,
       "year": 2022,
       "make": "Nissan",
-      "model": "Rogue Platinum Cvt 2in Nanaimo",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue ",
@@ -592,7 +676,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue ",
@@ -608,13 +694,16 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC40 T5 Awd Inscriptionin Nanaimo",
       "vin": "YV4162UL3N2660593",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "T5 Inscription",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/c1eaff8a239b.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2022-Volvo-XC40-id14451380.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2022-Volvo-XC40-id14451380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -624,8 +713,10 @@
       "odometer_km": 49458,
       "year": 2022,
       "make": "Volvo",
-      "model": "XC40 T5 Awd Inscriptionin Nanaimo",
-      "condition": "used"
+      "model": "XC40",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC40 ",
@@ -641,7 +732,9 @@
       "year": 2022,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC40 ",
@@ -657,13 +750,16 @@
       "year": 2022,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX Xdrive40in Nanaimo",
       "vin": "WB513CF02PCK54849",
       "stock": "NUMBER",
       "color": "Storm Bay Met",
+      "trim": "Xdrive40",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/a01e472391b7.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2023-BMW-iX-id14057097.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2023-BMW-iX-id14057097.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -673,8 +769,10 @@
       "odometer_km": 95294,
       "year": 2023,
       "make": "BMW",
-      "model": "iX Xdrive40in Nanaimo",
-      "condition": "used"
+      "model": "iX",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX ",
@@ -690,7 +788,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 BMW iX ",
@@ -706,13 +806,16 @@
       "year": 2023,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX 500hin Nanaimo",
       "vin": "2T2BCMEA0PC007986",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "500h",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/5f3f6f960bad.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2023-Lexus-RX-id14435948.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2023-Lexus-RX-id14435948.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -722,8 +825,10 @@
       "odometer_km": 14000,
       "year": 2023,
       "make": "Lexus",
-      "model": "RX 500hin Nanaimo",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX ",
@@ -739,7 +844,9 @@
       "year": 2023,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX ",
@@ -755,13 +862,16 @@
       "year": 2023,
       "make": "Lexus",
       "model": "RX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 M35i Xdrivein Nanaimo",
       "vin": "WBX13EF05R5Z96642",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/b710de62737c.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2024-BMW-X1-id14057098.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2024-BMW-X1-id14057098.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -771,8 +881,10 @@
       "odometer_km": 9105,
       "year": 2024,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Nanaimo",
-      "condition": "used"
+      "model": "X1",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -788,7 +900,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X1 ",
@@ -804,13 +918,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus NX 350hin Nanaimo",
       "vin": "2T2GKCEZ1RC016658",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "350h",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/b1ea00a871c4.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2024-Lexus-NX-id14181449.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2024-Lexus-NX-id14181449.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -820,8 +937,10 @@
       "odometer_km": 53724,
       "year": 2024,
       "make": "Lexus",
-      "model": "NX 350hin Nanaimo",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus NX ",
@@ -837,7 +956,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus NX ",
@@ -853,13 +974,16 @@
       "year": 2024,
       "make": "Lexus",
       "model": "NX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X3 M50 Xdrivein Nanaimo",
       "vin": "5UX73GP09S9Z40735",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "M50 Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/7087a0b68532.html",
       "source_url": "https://www.bmwnanaimo.ca/used/2025-BMW-X3-id14435947.html",
       "dealer_url": "https://www.bmwnanaimo.ca/used/2025-BMW-X3-id14435947.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,8 +993,10 @@
       "odometer_km": 21373,
       "year": 2025,
       "make": "BMW",
-      "model": "X3 M50 Xdrivein Nanaimo",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X3 ",
@@ -886,7 +1012,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X3 ",
@@ -902,7 +1030,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -918,7 +1048,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -934,7 +1066,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -950,7 +1084,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -966,7 +1102,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -982,7 +1120,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -998,7 +1138,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i ",
@@ -1014,7 +1156,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i ",
@@ -1030,12 +1174,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "M440i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/71c027a4219c.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1044,13 +1191,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2f09226e47c4.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1059,8 +1209,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Seriesin Nanaimo",
@@ -1075,7 +1227,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Seriesin Nanaimo",
@@ -1090,12 +1244,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/1d08651c43ee.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-5_Series_PHEV-id471076.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-5_Series_PHEV-id471076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1104,8 +1261,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series PHEVin Nanaimo",
-      "condition": "used"
+      "model": "5 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 760 ",
@@ -1121,12 +1280,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "760",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/55cac054e6bd.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-7_Series_PHEV-id478049.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-7_Series_PHEV-id478049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1135,8 +1297,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "7 Series PHEVin Nanaimo",
-      "condition": "used"
+      "model": "7 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Nanaimo",
@@ -1151,7 +1315,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Nanaimo",
@@ -1166,12 +1332,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/42701aca0e33.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1180,13 +1349,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "8 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/089484b9093f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1195,8 +1367,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "8 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2 ",
@@ -1212,7 +1386,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -1228,7 +1404,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4in Nanaimo",
@@ -1243,7 +1421,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Convertible - Cabrioletin Nanaimo",
@@ -1258,7 +1438,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in Nanaimo",
@@ -1273,7 +1455,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -1289,7 +1473,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -1305,7 +1491,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -1321,7 +1509,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -1337,12 +1527,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/556d3d17ef3f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1351,8 +1544,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Min Nanaimo",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -1368,7 +1563,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -1384,12 +1581,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/6cb82aa2e856.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X6_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1398,8 +1598,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 Min Nanaimo",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7in Nanaimo",
@@ -1414,7 +1616,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Nanaimo",
@@ -1429,7 +1633,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "XMin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW Z4in Nanaimo",
@@ -1444,7 +1650,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "Z4in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -1460,7 +1668,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i5in Nanaimo",
@@ -1475,7 +1685,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i5in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in Nanaimo",
@@ -1490,7 +1702,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -1506,7 +1720,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 Competitionin Nanaimo",
@@ -1523,7 +1739,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3 Competitionin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -1539,7 +1757,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Competition Coupein Nanaimo",
@@ -1556,7 +1776,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Competition Coupein Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 ",
@@ -1572,7 +1794,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1588,7 +1812,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1604,7 +1830,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -1620,7 +1848,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1636,7 +1866,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1652,7 +1884,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -1668,7 +1902,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i ",
@@ -1684,7 +1920,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i ",
@@ -1700,12 +1938,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/71c027a4219c.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1714,13 +1955,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2f09226e47c4.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-4_Series_Convertible___Cabriolet-id471089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1729,8 +1973,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Seriesin Nanaimo",
@@ -1745,7 +1991,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Seriesin Nanaimo",
@@ -1760,12 +2008,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 5 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/1d08651c43ee.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-5_Series_PHEV-id471076.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-5_Series_PHEV-id471076.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1774,8 +2025,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "5 Series PHEVin Nanaimo",
-      "condition": "new"
+      "model": "5 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 760 ",
@@ -1791,12 +2044,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "760",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 7 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/55cac054e6bd.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-7_Series_PHEV-id478049.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-7_Series_PHEV-id478049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1805,8 +2061,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "7 Series PHEVin Nanaimo",
-      "condition": "new"
+      "model": "7 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Nanaimo",
@@ -1821,7 +2079,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Seriesin Nanaimo",
@@ -1836,12 +2096,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "8 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/42701aca0e33.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet-id471038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1850,13 +2113,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "8 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 8 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/089484b9093f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-8_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1865,8 +2131,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "8 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "8 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2 ",
@@ -1882,7 +2150,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -1898,7 +2168,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4in Nanaimo",
@@ -1913,7 +2185,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M4 Convertible - Cabrioletin Nanaimo",
@@ -1928,7 +2202,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M5in Nanaimo",
@@ -1943,7 +2219,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M5in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -1959,7 +2237,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -1975,7 +2255,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -1991,7 +2273,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2007,12 +2291,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/556d3d17ef3f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X5_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X5_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2021,8 +2308,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Min Nanaimo",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2038,7 +2327,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -2054,12 +2345,15 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6cb82aa2e856.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X6_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2068,8 +2362,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 Min Nanaimo",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X7in Nanaimo",
@@ -2084,7 +2380,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "X7in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW XMin Nanaimo",
@@ -2099,7 +2397,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "XMin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW Z4in Nanaimo",
@@ -2114,7 +2414,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "Z4in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2130,7 +2432,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i5in Nanaimo",
@@ -2145,7 +2449,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i5in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i7in Nanaimo",
@@ -2160,7 +2466,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i7in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW iX ",
@@ -2176,7 +2484,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "iX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i Xdrive Gran Coupein Nanaimo",
@@ -2186,13 +2496,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f4b53498be66.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-228i-id14240568.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-228i-id14240568.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:07",
-      "price": 55074.0,
+      "last_verified": "2026-10-07T20:55:58",
+      "price": 55810.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "228i Xdrive Gran Coupein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 228i ",
@@ -2202,13 +2514,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/e332e27f437f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-228i.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-228i.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:16",
-      "price": 55074.0,
+      "last_verified": "2026-10-07T20:56:08",
+      "price": 55810.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "228i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i Xdrive Sedanin Nanaimo",
@@ -2217,14 +2531,34 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/9715af8b1abc.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id13009834.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id13009834.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:28",
-      "price": 66574.0,
+      "last_verified": "2026-10-07T20:56:17",
+      "price": 60810.0,
       "price_currency": "CAD",
       "odometer_km": 1400,
       "year": 2026,
       "make": "BMW",
       "model": "330i Xdrive Sedanin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
+    },
+    {
+      "name": "2026 BMW 330i Xdrive M Sportin Nanaimo",
+      "vin": "3MW89CW03T8G81974",
+      "stock": "NUMBER",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2108723f6f24.html",
+      "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id14487657.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i-id14487657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:53:47",
+      "price": 74510.0,
+      "price_currency": "CAD",
+      "year": 2026,
+      "make": "BMW",
+      "model": "330i Xdrive M Sportin Nanaimo",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 330i ",
@@ -2234,13 +2568,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/5d8a30620d03.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-330i.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:37",
-      "price": 66574.0,
+      "last_verified": "2026-10-07T20:56:27",
+      "price": 60810.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "330i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 760 Xdrive Sedanin Nanaimo",
@@ -2250,13 +2586,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f7f0bc6076d6.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-760-id14144218.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-760-id14144218.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:48",
-      "price": 194924.0,
+      "last_verified": "2026-10-07T20:56:38",
+      "price": 193853.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "760 Xdrive Sedanin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW 760 ",
@@ -2266,13 +2604,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/ed53b8735915.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-760.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:48:58",
-      "price": 194924.0,
+      "last_verified": "2026-10-07T20:56:48",
+      "price": 193853.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "760",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2 Coupein Nanaimo",
@@ -2282,13 +2622,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/3ef8c12f6511.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M2-id14240569.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M2-id14240569.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:49:09",
-      "price": 103724.0,
+      "last_verified": "2026-10-07T20:56:58",
+      "price": 105353.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "M2 Coupein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M2 ",
@@ -2298,13 +2640,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/452bb8a5a60a.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M2.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M2.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:49:18",
-      "price": 103724.0,
+      "last_verified": "2026-10-07T20:57:06",
+      "price": 105353.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "M2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i Xdrive Xdrivein Nanaimo",
@@ -2314,13 +2658,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/09d0de03c28e.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M440i-id12781963.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M440i-id12781963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:49:27",
-      "price": 93674.0,
+      "last_verified": "2026-10-07T20:57:17",
+      "price": 90910.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "M440i Xdrive Xdrivein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i Xdrive Gran Coupein Nanaimo",
@@ -2330,13 +2676,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/d1381c83e696.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M440i-id14246198.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-M440i-id14246198.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:49:38",
-      "price": 94024.0,
+      "last_verified": "2026-10-07T20:57:28",
+      "price": 95260.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
       "model": "M440i Xdrive Gran Coupein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M440i ",
@@ -2352,13 +2700,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Nanaimo",
       "vin": "WBX73EF06T5588197",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/05f0b3ba5895.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13666564.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13666564.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2367,14 +2718,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28i Xdrivein Nanaimo",
       "vin": "WBX73EF06T5576745",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive28i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/617b6e4f2c5d.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13685634.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13685634.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2384,14 +2738,17 @@
       "odometer_km": 5433,
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28i Xdrivein Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 M35i Xdrivein Nanaimo",
       "vin": "WBX13EF02T5645193",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/c0dc3c3d89fb.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13788462.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13788462.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2400,14 +2757,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 Xdrive28iin Nanaimo",
       "vin": "WBX73EF04T5656092",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/d04e9be18311.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13914550.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X1-id13914550.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2416,8 +2776,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X1 ",
@@ -2433,13 +2795,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 Xdrive28iin Nanaimo",
       "vin": "WBX63GM09T5454990",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/cc2ead73bb58.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X2-id13105433.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X2-id13105433.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2448,8 +2813,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X2 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X2",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X2 ",
@@ -2465,13 +2832,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 30 Xdrive M Sportin Nanaimo",
       "vin": "WBX57GP05TN403000",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "30 Xdrive M Sport",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/3a1876473eef.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14064553.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14064553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2480,14 +2850,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X3 30 Xdrive M Sportin Nanaimo",
-      "condition": "new"
+      "model": "X3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 30 Xdrive 57gpin Nanaimo",
       "vin": "WBX57GP06TN422879",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "30 Xdrive 57gp",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/b7f9ec9d1046.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14100697.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14100697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2496,14 +2869,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X3 30 Xdrive 57gpin Nanaimo",
-      "condition": "new"
+      "model": "X3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 30 Xdrive 57gpin Nanaimo",
       "vin": "WBX57GP08TN432085",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "30 Xdrive 57gp",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/e83bc74c1bc6.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14223517.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X3-id14223517.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2512,8 +2888,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X3 30 Xdrive 57gpin Nanaimo",
-      "condition": "new"
+      "model": "X3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X3 ",
@@ -2529,13 +2907,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 M60i Xdrivein Nanaimo",
       "vin": "5UX33EU04T9308833",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "M60i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2e651abb24b5.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id13294607.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id13294607.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2544,14 +2925,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 M60i Xdrivein Nanaimo",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Xdrive50e M Sportin Nanaimo",
       "vin": "5UX43EU06T9365846",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Xdrive50e M Sport",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/8e821b68681b.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14022804.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14022804.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2560,14 +2944,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Xdrive50e M Sportin Nanaimo",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Xdrive40iin Nanaimo",
       "vin": "5UX23EU08T9504964",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Xdrive40i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/03e62fa68dfa.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14100696.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14100696.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2576,14 +2963,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Xdrive40iin Nanaimo",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 Xdrive40iin Nanaimo",
       "vin": "5UX23EU09T9494350",
       "stock": "NUMBER",
       "color": "Manhattan Metallic",
+      "trim": "Xdrive40i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/7b55691f792f.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14100698.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X5-id14100698.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2592,8 +2982,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X5 Xdrive40iin Nanaimo",
-      "condition": "new"
+      "model": "X5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X5 ",
@@ -2609,13 +3001,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 Xdrive40i Nightfallin Nanaimo",
       "vin": "5UX33EX06T9345443",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive40i Nightfall",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/4631838b1bf9.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X6-id13437042.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X6-id13437042.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2624,14 +3019,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 Xdrive40i Nightfallin Nanaimo",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 Xdrive40i Nightfallin Nanaimo",
       "vin": "5UX33EX08T9380663",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Xdrive40i Nightfall",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f4e632ddafcd.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X6-id13651127.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-X6-id13651127.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2640,8 +3038,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "X6 Xdrive40i Nightfallin Nanaimo",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW X6 ",
@@ -2657,13 +3057,16 @@
       "year": 2026,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 Edrive40 Gran Coupein Nanaimo",
       "vin": "WBY63HD02TFW89954",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Edrive40 Gran Coupe",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/090808f71687.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-i4-id14016406.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-i4-id14016406.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2672,14 +3075,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "i4 Edrive40 Gran Coupein Nanaimo",
-      "condition": "new"
+      "model": "i4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 M60 Xdrive Granin Nanaimo",
       "vin": "WBY73HD07TFX34066",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "M60 Xdrive Gran",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f523843b3ccd.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-i4-id14451378.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-BMW-i4-id14451378.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2688,8 +3094,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "BMW",
-      "model": "i4 M60 Xdrive Granin Nanaimo",
-      "condition": "new"
+      "model": "i4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW i4 ",
@@ -2705,7 +3113,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "i4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 BMW M3 ",
@@ -2721,7 +3131,9 @@
       "year": 2026,
       "make": "BMW",
       "model": "M3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
@@ -2737,7 +3149,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 5 Doorin Nanaimo",
@@ -2752,7 +3166,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "5 Doorin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
@@ -2768,7 +3184,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -2784,12 +3202,15 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman SEin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/587251e7b9ff.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-MINI-Countryman_SE.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-MINI-Countryman_SE.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2798,8 +3219,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman SEin Nanaimo",
-      "condition": "used"
+      "model": "Countryman",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
@@ -2815,7 +3238,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 5 Doorin Nanaimo",
@@ -2830,7 +3255,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "5 Doorin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
@@ -2846,7 +3273,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -2862,12 +3291,15 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman SEin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/587251e7b9ff.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2026-MINI-Countryman_SE.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2026-MINI-Countryman_SE.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2876,8 +3308,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman SEin Nanaimo",
-      "condition": "new"
+      "model": "Countryman",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door ",
@@ -2893,7 +3327,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door Cooper C Fwdin Nanaimo",
@@ -2909,7 +3345,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door Cooper C Fwdin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI 3 door Cooper C Fwd 2,500in Nanaimo",
@@ -2925,7 +3363,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "3 door Cooper C Fwd 2,500in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible Cooper C Fwdin Nanaimo",
@@ -2941,7 +3381,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible Cooper C Fwdin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible Cooper C Fwdin Nanaimo",
@@ -2957,7 +3399,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible Cooper C Fwdin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Convertible ",
@@ -2973,13 +3417,16 @@
       "year": 2026,
       "make": "MINI",
       "model": "Convertible",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman Cooper Sin Nanaimo",
       "vin": "WMZ23GA05T7U36328",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Cooper S",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/1a79f67c422e.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-MINI-Countryman-id13117916.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-MINI-Countryman-id13117916.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2989,14 +3436,17 @@
       "odometer_km": 5874,
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman Cooper Sin Nanaimo",
-      "condition": "new"
+      "model": "Countryman",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman Cooper Sin Nanaimo",
       "vin": "WMZ23GA01T7U89835",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Cooper S",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/49cf20650b39.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2026-MINI-Countryman-id13555647.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2026-MINI-Countryman-id13555647.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3005,8 +3455,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "MINI",
-      "model": "Countryman Cooper Sin Nanaimo",
-      "condition": "new"
+      "model": "Countryman",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -3022,7 +3474,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3037,7 +3491,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3052,7 +3508,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3067,7 +3525,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3082,7 +3542,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3098,7 +3560,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3114,7 +3578,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3130,12 +3596,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/8e5ae1b02782.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3144,13 +3613,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/d6635b3b5f44.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id484084.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id484084.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3159,13 +3631,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/14a15db9f619.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3174,8 +3649,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "model": "4 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Nanaimo",
@@ -3190,7 +3667,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Nanaimo",
@@ -3205,12 +3684,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/fb98e54013d0.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-5_Series_PHEV-id483786.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-5_Series_PHEV-id483786.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3219,8 +3701,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "5 Series PHEVin Nanaimo",
-      "condition": "used"
+      "model": "5 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Nanaimo",
@@ -3235,7 +3719,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Nanaimo",
@@ -3250,12 +3736,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/646859d74db7.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3264,8 +3753,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Nanaimo",
-      "condition": "used"
+      "model": "7 Series",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M2 ",
@@ -3281,7 +3772,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M3in Nanaimo",
@@ -3296,7 +3789,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M3in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4in Nanaimo",
@@ -3311,7 +3806,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 Convertible - Cabrioletin Nanaimo",
@@ -3326,7 +3823,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5in Nanaimo",
@@ -3341,7 +3840,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3357,7 +3858,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2in Nanaimo",
@@ -3372,7 +3875,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Nanaimo",
@@ -3387,7 +3892,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6in Nanaimo",
@@ -3402,12 +3909,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/97ae610b9512.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3416,8 +3926,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 Min Nanaimo",
-      "condition": "used"
+      "model": "X6",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7 ",
@@ -3433,7 +3945,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Nanaimo",
@@ -3448,7 +3962,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i5in Nanaimo",
@@ -3463,7 +3979,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i5in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i7in Nanaimo",
@@ -3478,7 +3996,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i7in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3in Nanaimo",
@@ -3493,7 +4013,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3in Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3508,7 +4030,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3523,7 +4047,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3538,7 +4064,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 2 Seriesin Nanaimo",
@@ -3553,7 +4081,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "2 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3569,7 +4099,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3585,7 +4117,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3601,12 +4135,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/8e5ae1b02782.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id483879.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3615,13 +4152,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/d6635b3b5f44.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id484084.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet-id484084.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3630,13 +4170,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 4 Series Convertible - Cabrioletin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/14a15db9f619.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-4_Series_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3645,8 +4188,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "4 Series Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "model": "4 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Nanaimo",
@@ -3661,7 +4206,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 5 Seriesin Nanaimo",
@@ -3676,7 +4223,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "5 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 550 ",
@@ -3692,7 +4241,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "550",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Nanaimo",
@@ -3707,7 +4258,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Seriesin Nanaimo",
@@ -3722,12 +4275,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "7 Seriesin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 7 Series PHEVin Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEV",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/646859d74db7.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-7_Series_PHEV-id487559.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-7_Series_PHEV-id487559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3736,8 +4292,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "7 Series PHEVin Nanaimo",
-      "condition": "new"
+      "model": "7 Series",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M2in Nanaimo",
@@ -3752,7 +4310,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M2in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M3in Nanaimo",
@@ -3767,7 +4327,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M3in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4in Nanaimo",
@@ -3782,7 +4344,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M4 Convertible - Cabrioletin Nanaimo",
@@ -3797,7 +4361,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M5in Nanaimo",
@@ -3812,7 +4378,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M5in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -3828,7 +4396,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X2in Nanaimo",
@@ -3843,7 +4413,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X2in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X5in Nanaimo",
@@ -3858,7 +4430,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X5in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6in Nanaimo",
@@ -3873,12 +4447,15 @@
       "year": 2027,
       "make": "BMW",
       "model": "X6in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X6 Min Nanaimo",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "M",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/97ae610b9512.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-BMW-X6_M.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-BMW-X6_M.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3887,8 +4464,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X6 Min Nanaimo",
-      "condition": "new"
+      "model": "X6",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X7 ",
@@ -3904,7 +4483,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X7",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW XMin Nanaimo",
@@ -3919,7 +4500,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "XMin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i5in Nanaimo",
@@ -3934,7 +4517,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i5in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW i7in Nanaimo",
@@ -3949,7 +4534,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "i7in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW iX3in Nanaimo",
@@ -3964,7 +4551,45 @@
       "year": 2027,
       "make": "BMW",
       "model": "iX3in Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
+    },
+    {
+      "name": "2027 BMW 230i Coupein Nanaimo",
+      "vin": "3MW33CM07T8G80700",
+      "stock": "NUMBER",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/5d168c4fb84e.html",
+      "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-230i-id14487658.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-230i-id14487658.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:53:55",
+      "price": 65160.0,
+      "price_currency": "CAD",
+      "year": 2027,
+      "make": "BMW",
+      "model": "230i Coupein Nanaimo",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
+    },
+    {
+      "name": "2027 BMW 230i ",
+      "vin": "3MW33CM07T8G80700",
+      "stock": 14487658,
+      "color": "{$COLOREX}",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/8499a5bab2ed.html",
+      "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-230i.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-230i.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:54:05",
+      "price": 65160.0,
+      "price_currency": "CAD",
+      "year": 2027,
+      "make": "BMW",
+      "model": "230i",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i Xdrive Coupein Nanaimo",
@@ -3980,7 +4605,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i Xdrive Coupein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 430i ",
@@ -3996,7 +4623,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "430i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 550 Xdrivein Nanaimo",
@@ -4012,7 +4641,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "550 Xdrivein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW 550 ",
@@ -4028,7 +4659,45 @@
       "year": 2027,
       "make": "BMW",
       "model": "550",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
+    },
+    {
+      "name": "2027 BMW M3 Competitionin Nanaimo",
+      "vin": "WBS33HJ02VFX35139",
+      "stock": "NUMBER",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/28389271e808.html",
+      "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-M3-id14487659.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-M3-id14487659.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:54:23",
+      "price": 124793.0,
+      "price_currency": "CAD",
+      "year": 2027,
+      "make": "BMW",
+      "model": "M3 Competitionin Nanaimo",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
+    },
+    {
+      "name": "2027 BMW M3 ",
+      "vin": "WBS33HJ02VFX35139",
+      "stock": 14487659,
+      "color": "{$COLOREX}",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/4ba0b0ad196f.html",
+      "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-M3.html",
+      "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-M3.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:54:31",
+      "price": 124793.0,
+      "price_currency": "CAD",
+      "year": 2027,
+      "make": "BMW",
+      "model": "M3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i Xdrive Gran Coupein Nanaimo",
@@ -4044,7 +4713,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i Xdrive Gran Coupein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW M440i ",
@@ -4060,13 +4731,16 @@
       "year": 2027,
       "make": "BMW",
       "model": "M440i",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 M35i Xdrivein Nanaimo",
       "vin": "WBX13EF0XV5774737",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "M35i Xdrive",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/181df81a4a93.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14395956.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14395956.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4075,14 +4749,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 M35i Xdrivein Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Nanaimo",
       "vin": "WBX73EF04V5789373",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/a4a68f758e19.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14423855.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14423855.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4091,14 +4768,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Nanaimo",
       "vin": "WBX73EF07V5797435",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6f9b1616a757.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14435946.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14435946.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4107,14 +4787,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 Xdrive28iin Nanaimo",
       "vin": "WBX73EF07V5798083",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Xdrive28i",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/3052181c1355.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14451379.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-BMW-X1-id14451379.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4123,8 +4806,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "BMW",
-      "model": "X1 Xdrive28iin Nanaimo",
-      "condition": "new"
+      "model": "X1",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 BMW X1 ",
@@ -4140,7 +4825,9 @@
       "year": 2027,
       "make": "BMW",
       "model": "X1",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 3 Doorin Nanaimo",
@@ -4155,7 +4842,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "3 Doorin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 5 Doorin Nanaimo",
@@ -4170,7 +4859,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "5 Doorin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Convertiblein Nanaimo",
@@ -4185,7 +4876,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Convertiblein Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4201,7 +4894,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4217,7 +4912,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 3 Doorin Nanaimo",
@@ -4226,13 +4923,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/d28f195197da.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-MINI-3_Door.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-MINI-3_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:47:14",
+      "last_verified": "2026-10-07T20:54:46",
       "price": 37625.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
       "model": "3 Doorin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI 5 Doorin Nanaimo",
@@ -4241,13 +4940,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/8353761c31a5.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-MINI-5_Door.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-MINI-5_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:47:24",
+      "last_verified": "2026-10-07T20:55:01",
       "price": 38625.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
       "model": "5 Doorin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Convertiblein Nanaimo",
@@ -4256,13 +4957,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f28ae088dfd1.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Convertible.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:47:35",
+      "last_verified": "2026-10-07T20:55:17",
       "price": 45625.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
       "model": "Convertiblein Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4272,13 +4975,15 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f30ffb8e62f1.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Countryman.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Countryman.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:47:45",
+      "last_verified": "2026-10-07T20:55:31",
       "price": 55850.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4288,19 +4993,22 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/5f5b396123b7.html",
       "source_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Countryman_SE.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/2027-MINI-Countryman_SE.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T14:47:56",
+      "last_verified": "2026-10-07T20:55:48",
       "price": 73400.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman Cooper S All4in Nanaimo",
       "vin": "WMZ23GA00V7V92201",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Cooper S All4",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6cf99f01dcad.html",
       "source_url": "https://www.bmwnanaimo.ca/new/inventory/2027-MINI-Countryman-id13996914.html",
       "dealer_url": "https://www.bmwnanaimo.ca/new/inventory/2027-MINI-Countryman-id13996914.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4309,8 +5017,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "MINI",
-      "model": "Countryman Cooper S All4in Nanaimo",
-      "condition": "new"
+      "model": "Countryman",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 MINI Countryman ",
@@ -4326,7 +5036,9 @@
       "year": 2027,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
