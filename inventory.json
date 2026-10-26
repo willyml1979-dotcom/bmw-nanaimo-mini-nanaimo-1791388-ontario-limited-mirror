@@ -1,6 +1,6 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-10-26T06:56:00",
+  "generated_at": "2026-10-26T07:01:05",
   "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -158,6 +158,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 BMW 550 Xdrivein Nanaimo",
+      "vin": "WBA13FK02VCY82237",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/b52caf64cca3.html",
+      "condition": "new",
+      "price": 109319.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 BMW M440i Xdrive Gran Coupein Nanaimo",
       "vin": "WBA63FB0XVFX28072",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/c700ccac3f9f.html",
@@ -179,6 +187,14 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/a4a68f758e19.html",
       "condition": "new",
       "price": 67015.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 BMW X1 Xdrive28iin Nanaimo",
+      "vin": "WBX73EF07V5797435",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6f9b1616a757.html",
+      "condition": "new",
+      "price": 69815.0,
       "price_currency": "CAD"
     },
     {
@@ -1475,13 +1491,13 @@
     },
     {
       "name": "2026 BMW i4 ",
-      "vin": "WBY63HD02TFW89954",
+      "vin": "WBY73HD07TFX34066",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/22232b7b4726.html",
       "year": 2026,
       "make": "BMW",
       "model": "i4",
       "condition": "new",
-      "price": 74305.0,
+      "price": 105599.0,
       "price_currency": "CAD"
     },
     {
@@ -2553,17 +2569,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 BMW 550 Xdrivein Nanaimo",
-      "vin": "WBA13FK02VCY82237",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/b52caf64cca3.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "550 Xdrivein Nanaimo",
-      "condition": "new",
-      "price": 109319.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 BMW 550 ",
       "vin": "WBA13FK02VCY82237",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/95dc3cf82d82.html",
@@ -2605,17 +2610,6 @@
       "model": "M440i",
       "condition": "new",
       "price": 92665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 BMW X1 Xdrive28iin Nanaimo",
-      "vin": "WBX73EF07V5797435",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6f9b1616a757.html",
-      "year": 2027,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "new",
-      "price": 69815.0,
       "price_currency": "CAD"
     },
     {
