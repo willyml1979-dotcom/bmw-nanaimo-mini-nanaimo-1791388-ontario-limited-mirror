@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-10-25T22:14:35",
-  "vehicle_count": 271,
+  "generated_at": "2026-10-25T22:19:08",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -596,17 +596,6 @@
       "model": "Countryman",
       "condition": "used",
       "price": 28883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Lexus NX ",
-      "vin": "2T2GKCEZ1RC016658",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f6223e344902.html",
-      "year": 2024,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -1335,7 +1324,7 @@
       "make": "BMW",
       "model": "M3",
       "condition": "new",
-      "price": 110883.0,
+      "price": 108883.0,
       "price_currency": "CAD"
     },
     {
@@ -1732,7 +1721,7 @@
       "make": "BMW",
       "model": "M3",
       "condition": "new",
-      "price": 110883.0,
+      "price": 108883.0,
       "price_currency": "CAD"
     },
     {
