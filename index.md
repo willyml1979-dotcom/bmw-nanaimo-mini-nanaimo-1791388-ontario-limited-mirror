@@ -1,0 +1,10 @@
+# BMW Nanaimo / MINI Nanaimo (1791388 Ontario Limited)
+
+ dealership in Nanaimo. AI-readable inventory mirror, about 270 vehicles.
+
+- Official website: https://www.bmwnanaimo.ca/
+- Used vehicles: https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/
+- New vehicles: https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/
+- Vehicle index (JSON): https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/inventory.json
+- Agent guide: https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/agents.md
+- Summary: https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/llms.txt
