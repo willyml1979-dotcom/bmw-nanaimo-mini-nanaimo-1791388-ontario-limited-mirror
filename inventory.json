@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-11-17T23:18:29",
-  "vehicle_count": 277,
+  "generated_at": "2026-11-17T23:24:25",
+  "vehicle_count": 275,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -43,6 +43,13 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2d8f0031021d.html",
       "condition": "used",
       "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 230i 2026 for salein Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/bd97c68081b5.html",
+      "condition": "new",
+      "price": 64565.0,
       "price_currency": "CAD"
     },
     {
@@ -971,7 +978,7 @@
       "make": "BMW",
       "model": "4 Series",
       "condition": "new",
-      "price": 88745.0,
+      "price": 90745.0,
       "price_currency": "CAD"
     },
     {
@@ -981,7 +988,7 @@
       "make": "BMW",
       "model": "4 Series",
       "condition": "new",
-      "price": 73745.0,
+      "price": 75745.0,
       "price_currency": "CAD"
     },
     {
@@ -1015,14 +1022,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 760 ",
+      "name": "2026 BMW 7 Seriesin Nanaimo",
       "vin": "WBA33EJ09TCY37796",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/0f710e13012d.html",
       "year": 2026,
       "make": "BMW",
-      "model": "760",
+      "model": "7 Seriesin Nanaimo",
       "condition": "new",
-      "price": 193859.0,
+      "price": 153745.0,
       "price_currency": "CAD"
     },
     {
@@ -1115,7 +1122,7 @@
       "make": "BMW",
       "model": "M4 Convertible - Cabrioletin Nanaimo",
       "condition": "new",
-      "price": 116745.0,
+      "price": 118745.0,
       "price_currency": "CAD"
     },
     {
@@ -1129,14 +1136,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X1 ",
-      "vin": "WBX73EF06T5588197",
+      "name": "2026 BMW X1in Nanaimo",
+      "vin": "WBX73EF04T5656092",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/c1a9e290de71.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X1",
+      "model": "X1in Nanaimo",
       "condition": "new",
-      "price": 63715.0,
+      "price": 54745.0,
       "price_currency": "CAD"
     },
     {
@@ -1308,23 +1315,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 230i Xdrive Coupein Nanaimo",
+      "name": "New 2026 BMW 230i Xdrive Coupein Nanaimo",
       "vin": "3MW33CM07T8G80700",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/7c6ee6771e95.html",
       "year": 2026,
       "make": "BMW",
       "model": "230i Xdrive Coupein Nanaimo",
-      "condition": "new",
-      "price": 64565.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW 230i ",
-      "vin": "3MW33CM07T8G80700",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/bd97c68081b5.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "230i",
       "condition": "new",
       "price": 64565.0,
       "price_currency": "CAD"
@@ -1649,17 +1645,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW i4 M60 Xdrive Granin Nanaimo",
-      "vin": "WBY73HD07TFX34066",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/f523843b3ccd.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "i4",
-      "condition": "new",
-      "price": 105599.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 BMW i4 ",
       "vin": "WBY63HD02TFW89954",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/bfaa16254722.html",
@@ -1810,7 +1795,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 MINI 3 door Cooper S Fwdin Nanaimo",
+      "name": "New 2026 MINI 3 door Cooper S Fwdin Nanaimo",
       "vin": "WMW23GD02T2Y47451",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/d31f7c52ee88.html",
       "year": 2026,
@@ -2898,17 +2883,6 @@
       "model": "5 door Cooper S Fwdin Nanaimo",
       "condition": "new",
       "price": 52255.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 MINI Countryman Cooper S All4in Nanaimo",
-      "vin": "WMZ23GA00V7V92201",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/6cf99f01dcad.html",
-      "year": 2027,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "new",
-      "price": 53705.0,
       "price_currency": "CAD"
     },
     {
