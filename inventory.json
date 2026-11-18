@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-11-18T08:39:32",
-  "vehicle_count": 272,
+  "generated_at": "2026-11-18T08:46:53",
+  "vehicle_count": 273,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1110,36 +1110,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X2 ",
+      "name": "2026 BMW X2in Nanaimo",
       "vin": "WBX63GM09T5454990",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2714afde8921.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X2",
+      "model": "X2in Nanaimo",
       "condition": "new",
-      "price": 70465.0,
+      "price": 56745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X3 ",
+      "name": "2026 BMW X3in Nanaimo",
       "vin": "WBX57GP05TN403000",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/51784a632d15.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X3",
+      "model": "X3in Nanaimo",
       "condition": "new",
-      "price": 76415.0,
+      "price": 64245.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X5 ",
-      "vin": "5UX23EU04T9253571",
+      "name": "2026 BMW X5in Nanaimo",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/990c1a77522f.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X5",
+      "model": "X5in Nanaimo",
       "condition": "new",
-      "price": 109380.0,
+      "price": 90345.0,
       "price_currency": "CAD"
     },
     {
@@ -1163,14 +1162,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW X6 ",
+      "name": "2026 BMW X6in Nanaimo",
       "vin": "5UX33EX06T9345443",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/36b3b9afa5fb.html",
       "year": 2026,
       "make": "BMW",
-      "model": "X6",
+      "model": "X6in Nanaimo",
       "condition": "new",
-      "price": 129779.0,
+      "price": 102345.0,
       "price_currency": "CAD"
     },
     {
@@ -1190,7 +1189,7 @@
       "make": "BMW",
       "model": "X7in Nanaimo",
       "condition": "new",
-      "price": 111745.0,
+      "price": 120745.0,
       "price_currency": "CAD"
     },
     {
@@ -1245,14 +1244,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW iX ",
+      "name": "2026 BMW iXin Nanaimo",
       "vin": "WB553CF01TCX13431",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2c3cd4d4d1e2.html",
       "year": 2026,
       "make": "BMW",
-      "model": "iX",
+      "model": "iXin Nanaimo",
       "condition": "new",
-      "price": 132298.0,
+      "price": 83745.0,
       "price_currency": "CAD"
     },
     {
@@ -1694,14 +1693,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 MINI 3 door ",
+      "name": "2026 MINI 3 Doorin Nanaimo",
       "vin": "WMW23GD02T2Y47451",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/dedca74be24b.html",
       "year": 2026,
       "make": "MINI",
-      "model": "3 door",
+      "model": "3 Doorin Nanaimo",
       "condition": "new",
-      "price": 55255.0,
+      "price": 37625.0,
       "price_currency": "CAD"
     },
     {
@@ -2846,6 +2845,17 @@
       "model": "5 door Cooper S Fwdin Nanaimo",
       "condition": "new",
       "price": 52255.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 MINI Countryman Cooper S All4in Nanaimo",
+      "vin": "WMZ23GA02V7V62939",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/88b5844474fa.html",
+      "year": 2027,
+      "make": "MINI",
+      "model": "Countryman",
+      "condition": "new",
+      "price": 55305.0,
       "price_currency": "CAD"
     },
     {
