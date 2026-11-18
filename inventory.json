@@ -1,7 +1,7 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-11-17T23:24:25",
-  "vehicle_count": 275,
+  "generated_at": "2026-11-18T08:39:32",
+  "vehicle_count": 272,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -43,6 +43,13 @@
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2d8f0031021d.html",
       "condition": "used",
       "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW M3 2026 for salein Nanaimo",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/7a3444d52d30.html",
+      "condition": "used",
+      "price": 106883.0,
       "price_currency": "CAD"
     },
     {
@@ -222,17 +229,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Sorento Sx 2.5t Awdin Nanaimo",
-      "vin": "5XYRKDLF1NG154629",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/626654cebc3d.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Kia Sorento ",
       "vin": "5XYRKDLF1NG154629",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/9402b6d64f16.html",
@@ -247,17 +243,6 @@
       "name": "2022 Nissan Rogue Platinum Cvt 2in Nanaimo",
       "vin": "JN8BT3DD9NW274417",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/ff2932d86d97.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Rogue ",
-      "vin": "JN8BT3DD9NW274417",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/1fef9fc812b2.html",
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
@@ -324,17 +309,6 @@
       "name": "2023 BMW iX Xdrive40in Nanaimo",
       "vin": "WB513CF02PCK54849",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/a01e472391b7.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW iX ",
-      "vin": "WB513CF02PCK54849",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2cbe17006cdb.html",
       "year": 2023,
       "make": "BMW",
       "model": "iX",
@@ -431,58 +405,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Nanaimo",
       "vin": "WBA23GG07T7W34414",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/449dd4fdf291.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
+      "model": "2 Seriesin Nanaimo",
       "condition": "used",
-      "price": 55815.0,
+      "price": 53745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Nanaimo",
       "vin": "WBA23GG07T7W34414",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/baa49e37fd14.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
+      "model": "2 Seriesin Nanaimo",
       "condition": "used",
-      "price": 55815.0,
+      "price": 54745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 228i ",
+      "name": "2026 BMW 2 Seriesin Nanaimo",
       "vin": "WBA23GG07T7W34414",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/068444f8ab7f.html",
       "year": 2026,
       "make": "BMW",
-      "model": "228i",
+      "model": "2 Seriesin Nanaimo",
       "condition": "used",
-      "price": 55815.0,
+      "price": 66745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 330i ",
+      "name": "2026 BMW 3 Seriesin Nanaimo",
       "vin": "3MW89CW06T8F94344",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/852b6572f7be.html",
       "year": 2026,
       "make": "BMW",
-      "model": "330i",
+      "model": "3 Seriesin Nanaimo",
       "condition": "used",
-      "price": 60815.0,
+      "price": 60345.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW 330i ",
+      "name": "2026 BMW 3 Seriesin Nanaimo",
       "vin": "3MW89CW06T8F94344",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/0bcc7b400adb.html",
       "year": 2026,
       "make": "BMW",
-      "model": "330i",
+      "model": "3 Seriesin Nanaimo",
       "condition": "used",
-      "price": 60815.0,
+      "price": 74345.0,
       "price_currency": "CAD"
     },
     {
@@ -497,14 +471,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 BMW M440i ",
+      "name": "2026 BMW 4 Seriesin Nanaimo",
       "vin": "WBA63FB06TFV55504",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/c7b51a8d9c71.html",
       "year": 2026,
       "make": "BMW",
-      "model": "M440i",
+      "model": "4 Seriesin Nanaimo",
       "condition": "used",
-      "price": 91510.0,
+      "price": 79745.0,
       "price_currency": "CAD"
     },
     {
@@ -847,18 +821,7 @@
       "make": "BMW",
       "model": "M3 Competitionin Nanaimo",
       "condition": "used",
-      "price": 108883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW M3 ",
-      "vin": "WBS33HJ04TFV54413",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/7a3444d52d30.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "M3",
-      "condition": "used",
-      "price": 108883.0,
+      "price": 106883.0,
       "price_currency": "CAD"
     },
     {
