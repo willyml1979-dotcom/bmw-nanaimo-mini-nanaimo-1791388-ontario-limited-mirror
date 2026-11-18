@@ -1,10 +1,50 @@
 {
   "dealership": "Bmw Nanaimo Mini Nanaimo 1791388 Ontario Limited",
-  "generated_at": "2026-11-17T06:52:12",
-  "vehicle_count": 278,
+  "generated_at": "2026-11-17T23:18:29",
+  "vehicle_count": 277,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "MINI Cooper Hardtop 2006 for salein Nanaimo",
+      "vin": "WMWRE33566TJ37711",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/5e60732867af.html",
+      "condition": "used",
+      "price": 10883.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI Cooper Hardtop 2006 for salein Nanaimo",
+      "vin": "WMWRE33566TJ37711",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/4ce3e280eea2.html",
+      "condition": "used",
+      "price": 10883.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW 440i 2017 for salein Nanaimo",
+      "vin": "WBA4E5C55HG188988",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/9ad6c7338fa3.html",
+      "condition": "used",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2022 for salein Nanaimo",
+      "vin": "1C4GJXAG5NW209755",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/a2d5592be136.html",
+      "condition": "used",
+      "price": 33995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2024 for salein Nanaimo",
+      "vin": "7MMVABDY3RN171985",
+      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2d8f0031021d.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "BMW 228 2027 for salein Nanaimo",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/new/2fa95f866e54.html",
@@ -46,28 +86,6 @@
       "name": "2006 MINI Cooper Hardtop Rallye Editionin Nanaimo",
       "vin": "WMWRE33566TJ37711",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/ea9d8718f335.html",
-      "year": 2006,
-      "make": "MINI",
-      "model": "Cooper",
-      "condition": "used",
-      "price": 10883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2006 MINI Cooper Hardtop ",
-      "vin": "WMWRE33566TJ37711",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/5e60732867af.html",
-      "year": 2006,
-      "make": "MINI",
-      "model": "Cooper",
-      "condition": "used",
-      "price": 10883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2006 MINI Cooper Hardtop ",
-      "vin": "WMWRE33566TJ37711",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/4ce3e280eea2.html",
       "year": 2006,
       "make": "MINI",
       "model": "Cooper",
@@ -138,18 +156,7 @@
       "make": "BMW",
       "model": "440i Xdrive Gran Coupein Nanaimo",
       "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW 440i ",
-      "vin": "WBA4E5C55HG188988",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/9ad6c7338fa3.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "440i",
-      "condition": "used",
-      "price": 29995.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -193,18 +200,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Wrangler ",
-      "vin": "1C4GJXAG5NW209755",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/a2d5592be136.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -222,17 +218,6 @@
       "name": "2022 Kia Sorento Sx 2.5t Awdin Nanaimo",
       "vin": "5XYRKDLF1NG154629",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/626654cebc3d.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Sorento ",
-      "vin": "5XYRKDLF1NG154629",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/9402b6d64f16.html",
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
@@ -409,17 +394,6 @@
       "name": "2024 Mazda CX-50 Gt Turbo Awdin Nanaimo",
       "vin": "7MMVABDY3RN171985",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/1cdd7cef42ff.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABDY3RN171985",
-      "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/2d8f0031021d.html",
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
@@ -2822,14 +2796,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 MINI Countryman ",
+      "name": "2027 MINI Countrymanin Nanaimo",
       "vin": "WMZ23GA07V7V49622",
       "url": "https://willyml1979-dotcom.github.io/bmw-nanaimo-mini-nanaimo-1791388-ontario-limited-mirror/used/f30ffb8e62f1.html",
       "year": 2027,
       "make": "MINI",
-      "model": "Countryman",
+      "model": "Countrymanin Nanaimo",
       "condition": "used",
-      "price": 55855.0,
+      "price": 47925.0,
       "price_currency": "CAD"
     },
     {
